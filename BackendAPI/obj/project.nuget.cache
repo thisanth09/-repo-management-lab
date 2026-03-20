@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FmFBI5tJ2es=",
+  "success": true,
+  "projectFilePath": "D:\\y3\\S1\\csp\\lab\\lab5\\BackendAPI\\BackendAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER NITRO\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\ACER NITRO\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
